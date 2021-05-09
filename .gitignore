@@ -1,0 +1,8 @@
+imagedataset/notsoil/
+imagedataset/soil/
+
+soil_not_soil/testing/
+soil_not_soil/training/
+soil_not_soil/validation/
+
+trainedmodel.model
